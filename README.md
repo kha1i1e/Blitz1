@@ -41,3 +41,8 @@ The primary objective of this load testing scenario was to evaluate the performa
 In summary, the Blitz 1 load test has provided invaluable insights into the performance of the Python URL Shortening application. Through the strategic implementation of AWS CloudFront as our chosen Content Delivery Network (CDN), we have achieved a substantial reduction in latency, notably improving the application's response time by approximately 77%, from an initial measurement of 41ms to an impressive 9.65ms.
 
 This enhancement is poised to significantly elevate the overall user experience, ensuring swift and efficient content delivery while effectively accommodating spikes in traffic. To maintain and further optimize this newfound level of performance, I would continue to prioritize ongoing monitoring and the exploration of potential enhancements. 
+
+
+
+> ### Plan Diagram
+> ![Blitz 1 drawio](https://github.com/atlas-lion91/Blitz1/assets/140761974/4bc2bd86-c418-4a44-abdb-6d6aa741c85c)
