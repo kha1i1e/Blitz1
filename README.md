@@ -7,7 +7,7 @@ By:  Khalil Elkharbibi
 
 ### <ins>Overview</ins>
 
-Nike has reached out to me regarding the URL shortener deployed on AWS Elastic Beanstalk from ((https://github.com/atlas-lion91/Deployment_3.git)). In their email, Nike expressed concerns raised by their customers about the extended duration it takes for their webpages to load. Nike's request is for us to minimize the latency that customers are currently encountering.
+Nike has reached out to me regarding the URL shortener that I previously deployed on AWS Elastic Beanstalk. In their email, Nike expressed concerns raised by their customers about the extended duration it takes for their webpages to load. Nike's request is for us to minimize the latency that customers are currently encountering.
 
 ### <ins>Purpose</ins>
 
