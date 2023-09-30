@@ -1,10 +1,9 @@
-# Blitz 1
+# Blitz 1 Load Test Report
 
 September 30, 2023
 
 By:  Khalil Elkharbibi
 
-# Blitz 1 Load Test Report
 
 ### Overview
 
