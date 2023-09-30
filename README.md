@@ -33,3 +33,11 @@ The observed latency during the load test raised concerns about the application'
 #### 3. <ins>Primary Objective</ins>
 
 The primary objective of this load testing scenario was to evaluate the performance of the Python URL Shortening application when exposed to a heavy traffic load. I initiated the process by establishing a foundational metric for the application's latency and subsequently subjecting it to stress testing. The insights gained from this testing informed our decision to enhance the application's infrastructure by introducing additional resources in the form of a CDN.
+
+
+
+### <ins>Conclusion</ins>
+
+In summary, the Blitz 1 load test has provided invaluable insights into the performance of the Python URL Shortening application. Through the strategic implementation of AWS CloudFront as our chosen Content Delivery Network (CDN), we have achieved a substantial reduction in latency, notably improving the application's response time by approximately 77%, from an initial measurement of 41ms to an impressive 9.65ms.
+
+This enhancement is poised to significantly elevate the overall user experience, ensuring swift and efficient content delivery while effectively accommodating spikes in traffic. To maintain and further optimize this newfound level of performance, I would continue to prioritize ongoing monitoring and the exploration of potential enhancements. 
