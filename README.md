@@ -24,4 +24,4 @@ The observed latency during the load test raised concerns about the application'
 
 #### 3. <ins>Primary Objective</ins>
 
-The primary objective of this load testing scenario was to evaluate the performance of the Python URL Shortening application when exposed to a heavy request load. I initiated the process by establishing a baseline metric for the application's latency and subsequently subjecting it to stress testing. The insights gained from this testing informed our decision to enhance the application's infrastructure by introducing additional resources in the form of a CDN.
+The primary objective of this load testing scenario was to evaluate the performance of the Python URL Shortening application when exposed to a heavy traffic load. I initiated the process by establishing a foundational metric for the application's latency and subsequently subjecting it to stress testing. The insights gained from this testing informed our decision to enhance the application's infrastructure by introducing additional resources in the form of a CDN.
